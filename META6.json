@@ -1,0 +1,22 @@
+{
+  "meta-version": "0",
+  "name": "String Util",
+  "version": "0.0.0",
+  "auth": "github:littlebenlittle",
+  "api": "0.0",
+  "description": "Helpers for strings",
+  "source-url": "https://github.com/littlebenlittle/raku-string-util",
+  "perl": "6.*",
+  "author": "Ben Little <ben.little@fruition.net>",
+  "tags": [
+    "string",
+    "util",
+    "utility",
+    "tool",
+    "helper"
+  ],
+  "license": "Artistic-2.0",
+  "provides": {
+    "String::Util": "lib/StringUtil.rakumod"
+  }
+}
