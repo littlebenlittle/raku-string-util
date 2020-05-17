@@ -17,6 +17,6 @@
   ],
   "license": "Artistic-2.0",
   "provides": {
-    "String::Util": "lib/StringUtil.rakumod"
+    "String::Util": "lib/String/Util.rakumod"
   }
 }
