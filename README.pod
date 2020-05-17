@@ -1,9 +1,0 @@
-
-=begin pod
-
-=head1 String::Util
-
-Helper functions for strings.
-
-=end pod
-
